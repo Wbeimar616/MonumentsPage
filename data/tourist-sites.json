@@ -1,0 +1,161 @@
+{
+  "status": "12",
+  "sites": [
+    {
+      "label": "0",
+      "nameSite": "Monumento al pescador y balsero",
+      "summary": "Esta escultura probablemente tenga un significado mas profundo para la comunidad local, ya que refleja las actividades y la vida cotidiana de los habitantes de esta regi\u00f3n espec\u00edfica, donde la pesca y las actividades relacionadas con el rio pueden desempe\u00f1ar un papel crucial en la economia y la cultura locales.",
+      "location": {
+        "longitud": -75.872565,
+        "latitud": 1.41646
+      },
+      "img": "/Web/Imagenes/PescadorBalsero.png",
+      "video": "./videos/PescadorBalsero.mp4",
+      "country": "Colombia",
+      "city": "Belen de los Andaquies"
+    },
+    {
+      "label": "1",
+      "nameSite": "Monumento al Pirarucu",
+      "summary": "Es un lugar en donde observamos el gran pez Piraruc\u00fa, Chalapas, arawanas, mojarras, cachamas, pintadillos, cuchas, fauna del piedemonte Amaz\u00f3nico, lugar predilecto de los Turistas para admirar los diferentes peces, especialmente el Piraruc\u00fa, el cual es considerado uno de los peces de escama mas grande del mundo.",
+      "location": {
+        "longitud": -75.726128,
+        "latitud": 1.487667
+      },
+      "img": "/Web/Imagenes/pirarucu.jpg",
+      "video": "./videos/Pirarucu.mp4",
+      "country": "Colombia",
+      "city": "Morelia"
+    },
+    {
+      "label": "2",
+      "nameSite": "La Manigua",
+      "summary": "nos encontramos en el municipio de Florencia Caquet\u00e1 que al recorrerlo visualizamos  diversos  monumentos, entre   ellos  podemos observar  el monumento el hombre, la ciencia y la manigua, obra escult\u00f3rica del maestro Emiro Garzon Correa. Ubicada  en la universidad de la amazonia en el a\u00f1o 1983. Cuenta con unas dimensiones de 2 metros de ancho, 6 metros de alto y 2 metros de largo lo cual representa el encanto y el esp\u00edritu acogedor que nos lleva a amar la regi\u00f3n amaz\u00f3nica, el susurrente embrujo de una selva inh\u00f3spita que atrapa a los colonos Caquete\u00f1os y no los deja escapar tras su enc\u00e1nto.",
+      "location": {
+        "longitud": -75.6052,
+        "latitud": 1.6203
+      },
+      "img": "/Web/Imagenes/monumento.jpg",
+      "video": "./videos/Manigua.mp4",
+      "country": "Colombia",
+      "city": "Florencia (Caquet\u00e1)"
+    },
+    {
+      "label": "3",
+      "nameSite": "Monumento a La Paz",
+      "summary": "Representa la figura desnuda de una mujer caquete\u00f1a, sosteniendo una bandera blanca como homenaje a la paz y empotrada en un pedestal cuyos lados contienen los s\u00edmbolos de los cuatro elementos (agua, tierra, fuego y aire).",
+      "location": {
+        "longitud": -75.6042,
+        "latitud": 1.61547
+      },
+      "img": "/Web/Imagenes/paz.JPG",
+      "video": "./videos/Paz.mp4",
+      "country": "Colombia",
+      "city": "Florencia"
+    },
+    {
+      "label": "4",
+      "nameSite": "Monumento Vuelo por la Amazonia",
+      "summary": "Vuelo por la Amazonia, as\u00ed se llama la obra escult\u00f3rica ubicada en la glorieta de Acolsure. La obra es de autor\u00eda del maestro Anibal Castillo.  ",
+      "location": {
+        "longitud": -75.622437,
+        "latitud": 1.620139
+      },
+      "img": "/Web/Imagenes/vuelo.jpeg",
+      "video": "./videos/Vuelo.mp4",
+      "country": "Colombia",
+      "city": "Florencia"
+    },
+    {
+      "label": "5",
+      "nameSite": "Monumento al Poira",
+      "summary": "Homenaje a Pablo Elimio Giminez El Poira ubicada en el parque longuitudinal zona rosa, monumento creado por Anibal Castillo",
+      "location": {
+        "longitud": -75.609062,
+        "latitud": 1.610688
+      },
+      "img": "/Web/Imagenes/poira.jpeg",
+      "video": "./videos/Poira.mp4",
+      "country": "Colombia",
+      "city": "Florencia"
+    },
+    {
+      "label": "6",
+      "nameSite": "Monumento Los Colonos",
+      "summary": "En homenaje a los mestizos que  colonizaron el territorio  caquete\u00f1o. Este monumento est\u00e1  compuesto por tres figuras  humanas (un hombre, una mujer  y un ni\u00f1o), s\u00edmbolo de las  familias desplazadas por la  violencia que en la d\u00e9cada de los  50 llegaron a la regi\u00f3n en busca  de paz y prosperidad.",
+      "location": {
+        "longitud": -75.60449,
+        "latitud": 1.60858
+      },
+      "img": "/Web/Imagenes/colonos.jpg",
+      "video": "./videos/Colonos.mp4",
+      "country": "Colombia",
+      "city": "Florencia"
+    },
+    {
+      "label": "7",
+      "nameSite": "Monumento El ultimo Andaqu\u00ed",
+      "summary": "Simboliza a un Andaqu\u00ed que emerge de lo profundo de la tierra, sus manos son el s\u00edmbolo de rebeld\u00eda que se levanta en el infinito del fondo de la tierra y otras dos manos que tratan de hundir el rostro del ind\u00edgena. Esta escultura es elaborada por el escultor Emiro Garz\u00f3n, quien naci\u00f3 en este municipio del departamento del Caqueta.",
+      "location": {
+        "longitud": -75.869566,
+        "latitud": 1.423557
+      },
+      "img": "/Web/Imagenes/UltimoAndaqui.JPG",
+      "video": "./videos/Andaqui.mp4",
+      "country": "Colombia",
+      "city": "Belen de los Andaquies"
+    },
+    {
+      "label": "8",
+      "nameSite": "Monumento a La Vida",
+      "summary": "2007,Obra del maestro Emiro Garz\u00f3n en ferroconcreto abuzardado. Tiene 7.5 metros de altura y est\u00e1 ubicado en la glorieta de la consolata Avenida Calle 21 con Carrera 10.2 Exalta la maternidad en una figura femenina con un sol en su vientre y una luna en su cabeza como s\u00edmbolo de vida.",
+      "location": {
+        "longitud": -75.6136915,
+        "latitud": 1.6205834
+      },
+      "img": "/Web/Imagenes/vida.JPG",
+      "video": "./videos/Vida.mp4",
+      "country": "Colombia",
+      "city": "Florencia"
+    },
+    {
+      "label": "9",
+      "nameSite": "Monumento a San Francisco de As\u00eds",
+      "summary": "Estatua hecha en honor al misionero italiano nacido en As\u00eds de Nombre Giovanni Francesco Bernadone (1182-1226), fundador de la orden catolica de los Franciscanos en el a\u00f1o de 1208 y canonizado en 1228.",
+      "location": {
+        "longitud": -75.614999,
+        "latitud": 1.613182
+      },
+      "img": "/Web/Imagenes/SanF.jpg",
+      "video": "./videos/SanFrancisco.mp4",
+      "country": "Colombia",
+      "city": "Florencia"
+    },
+    {
+      "label": "10",
+      "nameSite": "Monumento a Los Colonizadores",
+      "summary": "Escultura con forma de hacha elaborada en ferro concreto fundido con aleaci\u00f3n de carburo. Fue creada por Fabio Sep\u00falveda en 1977 en homenaje a los primeros colonos que con hachas se abrieron espacio entre los \u00e1rboles de la Cordillera Oriental y crearon grandes zonas de pastizales para la crianza de ganado.",
+      "location": {
+        "longitud": -74.768849,
+        "latitud": 2.113603
+      },
+      "img": "/Web/Imagenes/hacha.jpg",
+      "video": "./videos/Colonizadores.mp4",
+      "country": "Colombia",
+      "city": "San Vicente del Caguan"
+    },
+    {
+      "label": "11",
+      "nameSite": "Monumento del Indio",
+      "summary": "Representa un indigena de la etnia y todo se fundo como un simbolo de la identidad y la herencia indigina en la region. Es un homenaje a la resistencia y la lucha de los pueblos indigenas por preservar su cultura y sus tradiciones en medio de los desafios y cambios sociales.",
+      "location": {
+        "longitud": -75.509139,
+        "latitud": 1.290128
+      },
+      "img": "/Web/Imagenes/indio.jpg",
+      "video": "./videos/Indio.mp4",
+      "country": "Colombia",
+      "city": "Milan"
+    }
+  ]
+}

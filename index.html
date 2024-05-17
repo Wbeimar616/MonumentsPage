@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manigua</title>
+  <link rel="stylesheet" href="./css/indexStyle.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+</head>
+
+<body>
+
+  <div class="header-panel">
+    <figure class="image is-48x48">
+      <img id="siteImage" src="" alt="" />
+    </figure>
+    <div class="media-content">
+      <img id="siteImage" alt="" />
+      <p class="title is-4" id="siteName"></p>
+      <p class="subtitle is-6" id="siteLocation"></p>
+    </div>
+  </div>
+
+
+  <section class="hero">
+    <div class="hero-body" is-paddingless>
+      <div class="container">
+        <div class="card">
+          <div class="card-image">
+
+            <div class="card-content">
+              <div class="media">
+                <div class="media-left">
+
+                </div>
+              </div>
+              <figure class="video video-map-container">
+                <video id="myVideo" controls autoplay>
+                  Tu navegador no soporta el elemento de video.
+                </video>
+                <!-- <div id="leafletmap" style="height: 250px; width: 100%;"></div> -->
+              </figure>
+              <br>
+
+            </div>
+            <div class="content" id="siteSummary">
+            </div>
+            <h1><i>Imagen del monumento:</i></h1>
+            <figure class="image is-148x148">
+              <img id="foto" src="" alt="monumento" />
+            </figure>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+  </section>
+
+  <!-- librerias -->
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+  <script type="module" src="./js/info.js"></script>
+
+
+
+  <div class="nosotros-container">
+    <h1 class="centered-text">Más sobre nosotros</h1>
+    <div class="nosotros">
+        <div class="cardpres">
+            <div class="content">
+                <img src="./Imagenes/creador1.jpg" alt="">
+                <div class="text-content">
+                    <p>Nombre:</p>
+                    <p>Nicolas Monte Oyola</p>
+                    <p>Codigo estudiantil:</p>
+                    <p>2020091398</p>
+                </div>
+            </div>
+        </div>
+        <div class="cardpres">
+            <div class="content">
+                <img src="./Imagenes/creador2.jpg" alt="">
+                <div class="text-content">
+                  <p>Nombre:</p>
+                  <p>Erika Yulieth Cuellar Monje</p>
+                  <p>Codigo estudiantil:</p>
+                  <p>2020091499</p>
+                </div>
+            </div>
+        </div>
+        <div class="cardpres">
+            <div class="content">
+                <img src="./Imagenes/creador3.png" alt="">
+                <div class="text-content">
+                    <p>Nombre:</p>
+                    <p>Wbeimar A. Sánchez Rojas</p>
+                    <p>Codigo estudiantil:</p>
+                    <p>1920088428</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+</body>
+
+</html>

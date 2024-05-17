@@ -1,0 +1,173 @@
+/* Estilo para Firefox */
+body {
+    scrollbar-width: thin;
+    /* "auto" o "thin" */
+    scrollbar-color: #059123 #b67d12;
+    /* thumb y track */
+
+}
+
+/* Estilo para Chrome, Edge y Safari */
+*::-webkit-scrollbar {
+    width: 20px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #b67d12;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #1f2229;
+    border-radius: 15px;
+    border: 3px solid #b67d12;
+}
+
+#map {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    height: calc(90vh - 40px);
+    z-index: 1;
+    box-shadow: 5px 5px 5px #888;
+}
+
+.video.video-map-container video {
+    width: calc(66.66% - 20px); /* Calcula el ancho del video para que ocupe dos tercios del contenedor */
+    margin-right: 20px; /* Agrega un margen derecho para separarlo del mapa */
+}
+
+.video-map-container {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.video-map-container video {
+    width: 48%;
+}
+
+.video-map-container #leafletmap {
+    width: 100%;
+}
+
+body {
+background-image: url(/Web/Imagenes/11.png);
+
+}
+
+.half-width-image {
+    display: block;
+    margin: 0 auto;
+    /* Centra la imagen horizontalmente */
+    max-width: 50%;
+    /* La imagen ocupará como máximo el 50% del ancho del contenedor padre */
+
+}
+
+#siteSummary {
+    max-width: 100%;
+    /* El texto ocupará como máximo el 50% del ancho del contenedor padre */
+    margin: 10%;
+    /* Centra el texto horizontalmente */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: larger;
+}
+
+.card {
+    margin: 10%;
+    display: flex;
+    /* Utilizamos flexbox para organizar los elementos */
+}
+
+.half-width-image,
+#siteSummary {
+
+    /* Hace que los elementos ocupen el mismo ancho */
+    max-width: 80%;
+    /* Establece que cada elemento ocupe como máximo el 50% del ancho */
+    margin: 20px;
+    /* Agrega un espacio entre los elementos */
+}
+
+/* Estilo para el encabezado */
+/* Estilo para el panel de encabezado */
+.header-panel {
+    position: fixed;
+    /* Fija el panel en la parte superior de la página */
+    top: 0;
+    /* Lo posiciona en la parte superior */
+    width: 100%;
+    /* Establece que ocupe todo el ancho de la página */
+    background-color: #0e0d0b;
+    /* Establece un color de fondo (puedes ajustarlo según tu diseño) */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* Añade una sombra para un aspecto de panel */
+    z-index: 1000;
+    /* Asegura que esté por encima de otros elementos */
+    padding: 20px;
+    /* Añade espacio interno para el contenido del panel */
+
+}
+.nosotros-container { 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+
+.centered-text {
+    text-align: center;
+    font-size: 40px; /* Ajusta el tamaño del texto según tu preferencia */
+    color: #ffffff; /* Cambia el color según tu diseño */
+    margin-bottom: 50px; /* Añade espacio debajo del texto */
+}
+
+.nosotros {
+    display: flex;
+    size: 100px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.cardpres {
+    border-radius: 20px;
+    margin-left: 10px;
+    height: 300px; /* Altura aumentada para que las imágenes sean más visibles */
+    background-color: #0e0d0b;
+    flex: 1;
+    transition: .3s all ease;
+    overflow: hidden; /* Asegura que el contenido extra sea oculto si la imagen es más grande que el div */
+    display: flex;
+    align-items: center; /* Centra verticalmente el contenido */
+}
+
+.cardpres:hover {
+    flex: 2;
+    background-color: #b67d12;
+}
+
+.content {
+    display: flex; /* Usa flexbox para organizar la imagen y el texto en una fila */
+    align-items: center; /* Alinea verticalmente el contenido */
+    width: 100%; /* Asegura que el contenido ocupe todo el ancho del contenedor padre */
+    padding: 10px; /* Añade un poco de espacio interior para la estética */
+}
+
+.cardpres img {
+    width: 50%; /* Asegura que la imagen tome el 50% del ancho del contenedor padre */
+    height: auto; /* Mantiene la proporción de la imagen */
+    object-fit: cover; /* Cubre el área del div sin distorsionar la imagen */
+    border-radius: 20px; /* Aplica el mismo border-radius a la imagen */
+    margin-right: 10px; /* Añade espacio entre la imagen y el texto */
+}
+
+.text-content {
+    display: flex;
+    flex-direction: column; /* Organiza el texto en una columna */
+}
+
+h1, p {
+    margin: 0; /* Elimina el margen predeterminado */
+    color: white; /* Establece el color del texto */
+    margin-bottom: 10px; /* Añade espacio entre los elementos */
+}
